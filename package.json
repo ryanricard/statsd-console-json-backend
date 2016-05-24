@@ -1,6 +1,6 @@
 {
   "name": "statsd-console-json-backend",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "StatsD backend for logging metrics to stdout in JSON format.",
   "main": "index.js",
   "scripts": {
